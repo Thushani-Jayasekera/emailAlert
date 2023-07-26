@@ -1,0 +1,14 @@
+{
+    "id": "b44eeed0-bb0f-473f-8040-e0bccdca1261",
+    "orgId": 24410,
+    "name": "Default Project",
+    "version": "1.0.0",
+    "createdDate": "2023-07-24T04:03:43.106Z",
+    "handler": "ysxr",
+    "region": "US",
+    "description": "Default Project Description",
+    "repository": null,
+    "branch": null,
+    "gitProvider": null,
+    "gitOrganization": null
+}

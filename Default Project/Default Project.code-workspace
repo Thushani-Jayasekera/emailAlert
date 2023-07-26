@@ -1,0 +1,22 @@
+{
+    "folders": [
+        {
+            "name": "choreo-project-root",
+            "path": "."
+        },
+        {
+            "name": "emailalert",
+            "path": "repos/Thushani-Jayasekera/emailAlert"
+        },
+        {
+            "name": "reading-list-service",
+            "path": "repos/Thushani-Jayasekera/choreo-examples/cloud-native-app-developer/reading-list-service"
+        }
+    ],
+    "metadata": {
+        "choreo": {
+            "projectID": "b44eeed0-bb0f-473f-8040-e0bccdca1261",
+            "orgId": "24410"
+        }
+    }
+}
